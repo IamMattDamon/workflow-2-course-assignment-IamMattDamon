@@ -1,0 +1,38 @@
+{
+  "name": "workflow-2-course-assignment-iammattdamon",
+  "version": "1.0.0",
+  "description": "Configure the project to use Jest with Babel. Lesson 2 of Module 2 contains instructions to do this.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noroff-FEU-Assignments/workflow-2-course-assignment-IamMattDamon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Noroff-FEU-Assignments/workflow-2-course-assignment-IamMattDamon/issues"
+  },
+  "homepage": "https://github.com/Noroff-FEU-Assignments/workflow-2-course-assignment-IamMattDamon#readme",
+  "browserslist": [
+    "last 1 Chrome version"
+  ],
+  "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@babel/preset-env": "^7.12.16",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3",
+    "sass": "^1.32.8",
+    "typescript": "^4.1.5"
+  },
+  "dependencies": {
+    "@babel/preset-typescript": "^7.12.16",
+    "@types/jest": "^26.0.20",
+    "apollo-boost": "^0.4.9",
+    "graphql": "^15.5.0",
+    "lodash": "^4.17.21"
+  }
+}
